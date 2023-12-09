@@ -1,0 +1,15 @@
+/Users/ionutgabriel/Desktop/Shannon Fano/ShannonFano.Crypt/ShannonFano/bin/Debug/net7.0/ShannonFano
+/Users/ionutgabriel/Desktop/Shannon Fano/ShannonFano.Crypt/ShannonFano/bin/Debug/net7.0/ShannonFano.deps.json
+/Users/ionutgabriel/Desktop/Shannon Fano/ShannonFano.Crypt/ShannonFano/bin/Debug/net7.0/ShannonFano.runtimeconfig.json
+/Users/ionutgabriel/Desktop/Shannon Fano/ShannonFano.Crypt/ShannonFano/bin/Debug/net7.0/ShannonFano.dll
+/Users/ionutgabriel/Desktop/Shannon Fano/ShannonFano.Crypt/ShannonFano/bin/Debug/net7.0/ShannonFano.pdb
+/Users/ionutgabriel/Desktop/Shannon Fano/ShannonFano.Crypt/ShannonFano/obj/Debug/net7.0/ShannonFano.csproj.AssemblyReference.cache
+/Users/ionutgabriel/Desktop/Shannon Fano/ShannonFano.Crypt/ShannonFano/obj/Debug/net7.0/ShannonFano.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ionutgabriel/Desktop/Shannon Fano/ShannonFano.Crypt/ShannonFano/obj/Debug/net7.0/ShannonFano.AssemblyInfoInputs.cache
+/Users/ionutgabriel/Desktop/Shannon Fano/ShannonFano.Crypt/ShannonFano/obj/Debug/net7.0/ShannonFano.AssemblyInfo.cs
+/Users/ionutgabriel/Desktop/Shannon Fano/ShannonFano.Crypt/ShannonFano/obj/Debug/net7.0/ShannonFano.csproj.CoreCompileInputs.cache
+/Users/ionutgabriel/Desktop/Shannon Fano/ShannonFano.Crypt/ShannonFano/obj/Debug/net7.0/ShannonFano.dll
+/Users/ionutgabriel/Desktop/Shannon Fano/ShannonFano.Crypt/ShannonFano/obj/Debug/net7.0/refint/ShannonFano.dll
+/Users/ionutgabriel/Desktop/Shannon Fano/ShannonFano.Crypt/ShannonFano/obj/Debug/net7.0/ShannonFano.pdb
+/Users/ionutgabriel/Desktop/Shannon Fano/ShannonFano.Crypt/ShannonFano/obj/Debug/net7.0/ShannonFano.genruntimeconfig.cache
+/Users/ionutgabriel/Desktop/Shannon Fano/ShannonFano.Crypt/ShannonFano/obj/Debug/net7.0/ref/ShannonFano.dll

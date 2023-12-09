@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+Metoda de Codificare Shannon-Fano
+
+Metoda de codificare Shannon-Fano este o tehnică de compresie a datelor care se
+bazează pe ideea de a atribui coduri binare variabile simbolurilor, astfel
+încât simbolurile cu frecvențe mai mari să primească coduri mai scurte.
+A fost dezvoltată în 1949 de către Claude Shannon și Robert Fano.
+
+Etapele Principale
+
+1.Calcularea Frecvențelor:
+
+Pentru a începe procesul de codificare, se calculează frecvența fiecărui simbol
+din sursa de date.
+
+2.Sortarea Nodurilor:
+Lista nodurilor (simbolurilor) este sortată în ordine descrescătoare a frecvențelor.
+
+3.Construirea Arborelui:
+Se construiește un arbore binar utilizând o abordare de tip divide și conqueră.
+Nodurile sunt împărțite în două grupuri,
+iar procesul se repetă până când arborele este complet.
+
+4.Atribuirea Codurilor:
+Fiecare ramură din arbore este etichetată cu '0' sau '1'.
+Fiecare simbol primește un cod binar pe baza parcurgerii arborelui.
+
+5.Afișarea Codurilor:
+Se afișează codurile binare atribuite fiecărui simbol,
+evidențiind codurile asociate cu simbolurile în ordine crescătoare.
+
+---Caracteristici Cheie
+Codare Eficientă: Metoda Shannon-Fano oferă codări eficiente,
+cu lungimi variabile pentru simboluri în funcție de frecvența acestora.
+
+Despre Coduri Prefixe: Codurile generate sunt coduri prefixe,
+ceea ce înseamnă că niciun cod nu este prefixul altui cod.
+Această proprietate permite decodificarea fără ambiguitate a șirului codificat.
+In concluzie, această tehnică este folosită în compresia de date și în
+domenii unde optimizarea spațiului de stocare este crucială.
+
+</
